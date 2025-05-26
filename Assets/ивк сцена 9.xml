@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ивк сцена 9.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Символ 10000" x="0" y="0" width="1611" height="896" frameX="-18" frameY="-210" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10001" x="0" y="0" width="1611" height="896" frameX="-18" frameY="-210" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10002" x="0" y="0" width="1611" height="896" frameX="-18" frameY="-210" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10003" x="0" y="0" width="1611" height="896" frameX="-18" frameY="-210" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10004" x="0" y="0" width="1611" height="896" frameX="-18" frameY="-210" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10005" x="0" y="0" width="1611" height="896" frameX="-18" frameY="-210" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10006" x="0" y="0" width="1611" height="896" frameX="-18" frameY="-210" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10007" x="1611" y="0" width="1612" height="897" frameX="-17" frameY="-209" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10008" x="3223" y="0" width="1616" height="901" frameX="-13" frameY="-205" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10009" x="4839" y="0" width="1622" height="914" frameX="-6" frameY="-192" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10010" x="6461" y="0" width="1620" height="939" frameX="0" frameY="-167" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10011" x="0" y="939" width="1566" height="1120" frameX="-33" frameY="0" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10012" x="1566" y="939" width="1380" height="1086" frameX="-124" frameY="-34" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10013" x="2946" y="939" width="1396" height="1071" frameX="-116" frameY="-49" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10014" x="4342" y="939" width="1401" height="1067" frameX="-114" frameY="-53" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10015" x="5743" y="939" width="1401" height="1067" frameX="-114" frameY="-53" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10016" x="5743" y="939" width="1401" height="1067" frameX="-114" frameY="-53" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10017" x="5743" y="939" width="1401" height="1067" frameX="-114" frameY="-53" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10018" x="5743" y="939" width="1401" height="1067" frameX="-114" frameY="-53" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10019" x="0" y="2059" width="1401" height="1067" frameX="-114" frameY="-53" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10020" x="0" y="2059" width="1401" height="1067" frameX="-114" frameY="-53" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10021" x="1401" y="2059" width="1397" height="1066" frameX="-119" frameY="-54" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10022" x="2798" y="2059" width="1373" height="1051" frameX="-147" frameY="-69" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10023" x="4171" y="2059" width="1330" height="987" frameX="-198" frameY="-133" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10024" x="5501" y="2059" width="1206" height="891" frameX="-355" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10025" x="6707" y="2059" width="1194" height="891" frameX="-352" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10026" x="0" y="3126" width="1198" height="891" frameX="-350" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10027" x="1198" y="3126" width="1200" height="891" frameX="-348" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10028" x="2398" y="3126" width="1201" height="891" frameX="-348" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10029" x="3599" y="3126" width="1202" height="891" frameX="-347" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10030" x="4801" y="3126" width="1202" height="891" frameX="-347" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10031" x="6003" y="3126" width="1202" height="891" frameX="-347" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10032" x="0" y="4017" width="1202" height="891" frameX="-347" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10033" x="1202" y="4017" width="1202" height="891" frameX="-347" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10034" x="2404" y="4017" width="1202" height="891" frameX="-347" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10035" x="3606" y="4017" width="1203" height="891" frameX="-346" frameY="-146" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10036" x="4809" y="4017" width="1211" height="886" frameX="-340" frameY="-151" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10037" x="6020" y="4017" width="1230" height="874" frameX="-323" frameY="-163" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10038" x="0" y="4908" width="1270" height="1005" frameX="-264" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10039" x="1270" y="4908" width="1273" height="1005" frameX="-270" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10040" x="2543" y="4908" width="1273" height="1006" frameX="-273" frameY="-156" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10041" x="3816" y="4908" width="1272" height="1006" frameX="-275" frameY="-156" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10042" x="5088" y="4908" width="1271" height="1006" frameX="-276" frameY="-156" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10043" x="6359" y="4908" width="1271" height="1005" frameX="-276" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10044" x="0" y="5914" width="1271" height="1005" frameX="-276" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10045" x="0" y="5914" width="1271" height="1005" frameX="-276" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10046" x="6359" y="4908" width="1271" height="1005" frameX="-276" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10047" x="1271" y="5914" width="1271" height="1005" frameX="-276" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10048" x="1271" y="5914" width="1271" height="1005" frameX="-276" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10049" x="2542" y="5914" width="1271" height="1005" frameX="-276" frameY="-157" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10050" x="3813" y="5914" width="1271" height="1004" frameX="-277" frameY="-158" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10051" x="5084" y="5914" width="1271" height="1002" frameX="-280" frameY="-160" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10052" x="6355" y="5914" width="1268" height="997" frameX="-287" frameY="-165" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10053" x="0" y="6919" width="1266" height="989" frameX="-297" frameY="-173" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10054" x="1266" y="6919" width="1262" height="978" frameX="-313" frameY="-184" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10055" x="2528" y="6919" width="1257" height="965" frameX="-334" frameY="-197" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10056" x="3785" y="6919" width="1259" height="955" frameX="-354" frameY="-207" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10057" x="5044" y="6919" width="1261" height="947" frameX="-379" frameY="-215" frameWidth="1687" frameHeight="1169"/>
+	<SubTexture name="Символ 10058" x="6305" y="6919" width="1248" height="953" frameX="-398" frameY="-211" frameWidth="1687" frameHeight="1169"/>
+</TextureAtlas>

@@ -1,2 +1,4 @@
 *.dylib
 /Temp
+/Library/Artifacts
+/Library/Artifacts

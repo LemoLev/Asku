@@ -1,0 +1,3110 @@
+fileFormatVersion: 2
+guid: b050e5799e7ea4347a98cfcccf39bec4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Down0000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dad8ceedbc796380800000000000000
+      internalID: -8977507226989569326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down0001
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df293a8d66460a870800000000000000
+      internalID: 8692057673709097725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down0002
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497bdbdf8cabdb2a0800000000000000
+      internalID: -6720009696553617516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down0003
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e62593711e85e2e0800000000000000
+      internalID: -2097113845866354974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down0004
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f9a22e4c2c6600800000000000000
+      internalID: 462793575812954254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down0005
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068ce61e923487930800000000000000
+      internalID: 4141133704522025056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down0006
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888c47c1fc9af3fd0800000000000000
+      internalID: -2359980972718110584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down0007
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 7813
+        width: 384
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaf13f3ebc709e30800000000000000
+      internalID: 4508240383543737050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0000
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b58689bf674bf0800000000000000
+      internalID: -340180404226640526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0001
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b59168a4fcb4d0800000000000000
+      internalID: -3117347838018342036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0002
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7de2f2b0f085c70800000000000000
+      internalID: 8959927999364257707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0003
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419df74114c36ba0800000000000000
+      internalID: -6096813892028231348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0004
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabe4d9c9c677d830800000000000000
+      internalID: 4095872995163433903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0005
+      rect:
+        serializedVersion: 2
+        x: 4827
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74144d4cfe5f1560800000000000000
+      internalID: 7286647159829828735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0006
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efbb4253ccb02480800000000000000
+      internalID: -8925926914362982429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0007
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 7727
+        width: 337
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fab4c220bbc96280800000000000000
+      internalID: -9049478018866300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0000
+      rect:
+        serializedVersion: 2
+        x: 5853
+        y: 7728
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d83b2defe83400800000000000000
+      internalID: 304256776758941396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0001
+      rect:
+        serializedVersion: 2
+        x: 6249
+        y: 7728
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07198a40776e160800000000000000
+      internalID: 7054456728214139118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0002
+      rect:
+        serializedVersion: 2
+        x: 6645
+        y: 7728
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995e9fa5d6183c090800000000000000
+      internalID: -8015420605111605863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0003
+      rect:
+        serializedVersion: 2
+        x: 7041
+        y: 7728
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665dd96c7fbfe2940800000000000000
+      internalID: 5273429255305155942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0004
+      rect:
+        serializedVersion: 2
+        x: 7437
+        y: 7728
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c29314eefdf9b3b0800000000000000
+      internalID: -5496082599038971199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0005
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7263
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64d68db0b2a9e2a0800000000000000
+      internalID: -6707651290013969302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0006
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 7263
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1253221a2338df0800000000000000
+      internalID: -179243892519657027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left0007
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 7263
+        width: 391
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324a273799a98a240800000000000000
+      internalID: 4803258986448200739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0000
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32007a7a9ea649fa0800000000000000
+      internalID: -5794889268746321885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0001
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e77497e4c9e039e0800000000000000
+      internalID: -1643556832082102300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0002
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7cdce69fca7140800000000000000
+      internalID: 4718311806749933003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0003
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f5e0c98e441bc0800000000000000
+      internalID: -3813336630922184831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0004
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e877c67930220780800000000000000
+      internalID: -8718370497457850138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0005
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122e1211904bf0800800000000000000
+      internalID: 580880827989221921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0006
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2c63d87a570f20800000000000000
+      internalID: 3388776719609245261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right0007
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 7263
+        width: 351
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712997fe824fa25f0800000000000000
+      internalID: -780543128741768681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0000
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ae4817911e4140800000000000000
+      internalID: 4705718001294287192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0001
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d7fcc218ee03590800000000000000
+      internalID: -7696389524606190293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0002
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ae71feed37ab20800000000000000
+      internalID: 3145550961204700641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0003
+      rect:
+        serializedVersion: 2
+        x: 5022
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2cec0f559b7a10800000000000000
+      internalID: 1908283102592772957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0004
+      rect:
+        serializedVersion: 2
+        x: 5349
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e31647acc12079c0800000000000000
+      internalID: -3931605311831010330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0005
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4114a5ecfe4de60800000000000000
+      internalID: 7986271708791248090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0006
+      rect:
+        serializedVersion: 2
+        x: 6003
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2070ee044d3b81f10800000000000000
+      internalID: 2240738538820601602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up0007
+      rect:
+        serializedVersion: 2
+        x: 6330
+        y: 7248
+        width: 322
+        height: 474
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b85e7923b9a07680800000000000000
+      internalID: -8759314688275228492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0000
+      rect:
+        serializedVersion: 2
+        x: 6657
+        y: 7258
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b370877e909beb30800000000000000
+      internalID: 4317703678048891824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0001
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4e80b096e42a20800000000000000
+      internalID: 3036805557866351710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0002
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1524f435d432c03b0800000000000000
+      internalID: -5545018226182765999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0003
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce440e9893a5ce60800000000000000
+      internalID: 7981965790465511110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0004
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaa02c30ffbbeda0800000000000000
+      internalID: -5914422647099184413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0005
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed3b6a350c708e0800000000000000
+      internalID: -1727200466561671582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0006
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76afdee4239149ec0800000000000000
+      internalID: -3561193701479941529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0007
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d369cfb6adcb90800000000000000
+      internalID: -7219931284957310519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0008
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583b4df50141dd090800000000000000
+      internalID: -8008222501835066491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0009
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c3f460332c75050800000000000000
+      internalID: 5789309370413038728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0010
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 6779
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2306aebeb938390b0800000000000000
+      internalID: -5723085995756593102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0011
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85f3dd34037cc4f0800000000000000
+      internalID: -807143771151796850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0012
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14091d2151f4093c0800000000000000
+      internalID: -4354893887738638271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0013
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b85aeabd183280800000000000000
+      internalID: -9063461561450318488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0014
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a38b12122257800800000000000000
+      internalID: 609430850273557067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0015
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d1fa83b577de160800000000000000
+      internalID: 7056427424836164985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0016
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198d3bfd21c716650800000000000000
+      internalID: 6224392580507097233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0017
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc75521bb446e1130800000000000000
+      internalID: 3539376633417127883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0018
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af07d72bbed69a20800000000000000
+      internalID: 3068885091508228008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0019
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a888823ea38030800000000000000
+      internalID: 3495829267831890706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0020
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 6310
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca3d69ab80f802e0800000000000000
+      internalID: -2159211538690524469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0021
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0489a0004b0e6570800000000000000
+      internalID: 8461713119392662540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0022
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9190adf71accfa070800000000000000
+      internalID: 8119933647179090201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0023
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2847ea15fe182d0800000000000000
+      internalID: -3278075919650749749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0024
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c823129ab29030860800000000000000
+      internalID: 7494844288000406156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0025
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a5a0adc975f9e80800000000000000
+      internalID: -8169714867842164173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0026
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04e669af6dbaea60800000000000000
+      internalID: 7704178399851766795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0027
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9993a616610c130800000000000000
+      internalID: 3584889911036713457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0028
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb7b799a2de2910800000000000000
+      internalID: 1814619325713595355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0029
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3324b0caffff7060800000000000000
+      internalID: 6953557802123273019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0030
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 5841
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35609d1afc1e0ad0800000000000000
+      internalID: -2734216063203908294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0031
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff006623a9897e0800000000000000
+      internalID: -1758486113237794947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0032
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f8f253106b79160800000000000000
+      internalID: 7032289459465850725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0033
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa71157683c522f0800000000000000
+      internalID: -998176760135583063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0034
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b49487656659390800000000000000
+      internalID: -7812225457032967387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0035
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b17e15ee384eb0800000000000000
+      internalID: -4735465854400876426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0036
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e7dd961362da2f0800000000000000
+      internalID: -960069151888671119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0037
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963cd686b97d2750800000000000000
+      internalID: 6281810880105297561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0038
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa084d19d0c13980800000000000000
+      internalID: -8560849377922905429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0039
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638cc349ba1f38c70800000000000000
+      internalID: 8972280601880873014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0040
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 5372
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c367bb7575d44b0800000000000000
+      internalID: -5454607539356943293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0041
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854f2639e4e59fd70800000000000000
+      internalID: 9077390215515141208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0042
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8b34e5dc8867080800000000000000
+      internalID: -9190007573971748623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0043
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1018e51216a072a90800000000000000
+      internalID: -7338885655488986879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0044
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c235872858b35aa0800000000000000
+      internalID: -6173387975435144507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0045
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334c5613216209d20800000000000000
+      internalID: 3283165987933111347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0046
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073f886a2b1007380800000000000000
+      internalID: -8975672190539598992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0047
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08818c6ae265fb430800000000000000
+      internalID: 3800851368890603648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0048
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4238376e55d7c260800000000000000
+      internalID: 7117892337517736523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0049
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8b1659b2ef54e0800000000000000
+      internalID: -1990623224632995861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0050
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 4903
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726ee24097b47d80800000000000000
+      internalID: -8253770386837183882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0051
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39acdaf1476b03c20800000000000000
+      internalID: 3184245546414885523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0052
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c5b317389670400800000000000000
+      internalID: 290316714250034295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0053
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d68d42422260c40800000000000000
+      internalID: 5478103535375117669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0054
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6aac5ed1b2c08f0800000000000000
+      internalID: -573035645173586194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0055
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c06b6250b3b6b0800000000000000
+      internalID: -5281684069940147717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0056
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bec1349d89c8a2a0800000000000000
+      internalID: -6725904433563971914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0057
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5712266083ed5c0800000000000000
+      internalID: -4188849003340663358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0058
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e949cc8df0c0c6a0800000000000000
+      internalID: -6430928072663807519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0059
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4842d4e8f767e70800000000000000
+      internalID: 9112611145187099847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0060
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 4434
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c822ec5c48e39fdd0800000000000000
+      internalID: -2451859782151298420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0061
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cf744bc5b3da20800000000000000
+      internalID: 3086010054311133980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0062
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253bb0144b466080800000000000000
+      internalID: -9194578833519725280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0063
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f1470f0b304c320800000000000000
+      internalID: 2577188945246035743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0064
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad97d6bd5ff4ef40800000000000000
+      internalID: 5757007001650961826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0065
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb524e8226d805a0800000000000000
+      internalID: -6554753813733811276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0066
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432015c869cfb2580800000000000000
+      internalID: -8850702919137164748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0067
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d314432fa61dd76e0800000000000000
+      internalID: -1838082815637044931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0068
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a46fad7c0c102d90800000000000000
+      internalID: -7124663770526292829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0069
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b693757b49d375980800000000000000
+      internalID: -8550297658599196309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0070
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 3965
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aad23f1bbdf418d0800000000000000
+      internalID: -2876395281858766174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0071
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78191703007b0510800000000000000
+      internalID: 1516428857846601853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0072
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09071040245046110800000000000000
+      internalID: 1253132377409024144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0073
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510848fc51bc02be0800000000000000
+      internalID: -1503978981005426667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0074
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726258f12e63fc5c0800000000000000
+      internalID: -4193072383239313881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0075
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ae0cc971521380800000000000000
+      internalID: -9002043121603794828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0076
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e42f5d1d863f6480800000000000000
+      internalID: -8903837958577117977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0077
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195b49e2a93e8c300800000000000000
+      internalID: 272718028801881489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0078
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4176816034a118a60800000000000000
+      internalID: 7674444115183429396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0079
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d4ff00718d4b8a0800000000000000
+      internalID: -6290165186217161371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0080
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 3496
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adfad0ed0b0762a0800000000000000
+      internalID: -6744409762729099864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0081
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5230b377783720800000000000000
+      internalID: 2826140104936021560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0082
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a0f9c717b8fb70800000000000000
+      internalID: 8933091173689501646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0083
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc268fda014be50800000000000000
+      internalID: 6824097674755754998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0084
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec4284fce7d14d80800000000000000
+      internalID: -8268090028161086236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0085
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aabff98fdfdc9070800000000000000
+      internalID: 8114606779800730280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0086
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19b1a1ca3a6662b0800000000000000
+      internalID: -5591665086744643301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0087
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750f8b5824b31ca20800000000000000
+      internalID: 3080808776995500119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0088
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01dfbff0dbe29ba0800000000000000
+      internalID: -6083540863747632885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0089
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaddb998256667d10800000000000000
+      internalID: 2122996779033812394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0090
+      rect:
+        serializedVersion: 2
+        x: 6971
+        y: 3027
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151616d9ce8a1cf0800000000000000
+      internalID: -280755029225892577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0091
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2558
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9597089b699af330800000000000000
+      internalID: 3745474727503173023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0092
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2558
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186b84e45d8b06d0800000000000000
+      internalID: -3023167329098045410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0093
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2558
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3716ffb26181acc80800000000000000
+      internalID: -8301796479597584013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thatslong0094
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2558
+        width: 769
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cffd6e7f3508550800000000000000
+      internalID: 6161016614438304838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Down0000: -8977507226989569326
+      Down0001: 8692057673709097725
+      Down0002: -6720009696553617516
+      Down0003: -2097113845866354974
+      Down0004: 462793575812954254
+      Down0005: 4141133704522025056
+      Down0006: -2359980972718110584
+      Down0007: 4508240383543737050
+      Idle0000: -340180404226640526
+      Idle0001: -3117347838018342036
+      Idle0002: 8959927999364257707
+      Idle0003: -6096813892028231348
+      Idle0004: 4095872995163433903
+      Idle0005: 7286647159829828735
+      Idle0006: -8925926914362982429
+      Idle0007: -9049478018866300172
+      Left0000: 304256776758941396
+      Left0001: 7054456728214139118
+      Left0002: -8015420605111605863
+      Left0003: 5273429255305155942
+      Left0004: -5496082599038971199
+      Left0005: -6707651290013969302
+      Left0006: -179243892519657027
+      Left0007: 4803258986448200739
+      Right0000: -5794889268746321885
+      Right0001: -1643556832082102300
+      Right0002: 4718311806749933003
+      Right0003: -3813336630922184831
+      Right0004: -8718370497457850138
+      Right0005: 580880827989221921
+      Right0006: 3388776719609245261
+      Right0007: -780543128741768681
+      Up0000: 4705718001294287192
+      Up0001: -7696389524606190293
+      Up0002: 3145550961204700641
+      Up0003: 1908283102592772957
+      Up0004: -3931605311831010330
+      Up0005: 7986271708791248090
+      Up0006: 2240738538820601602
+      Up0007: -8759314688275228492
+      thatslong0000: 4317703678048891824
+      thatslong0001: 3036805557866351710
+      thatslong0002: -5545018226182765999
+      thatslong0003: 7981965790465511110
+      thatslong0004: -5914422647099184413
+      thatslong0005: -1727200466561671582
+      thatslong0006: -3561193701479941529
+      thatslong0007: -7219931284957310519
+      thatslong0008: -8008222501835066491
+      thatslong0009: 5789309370413038728
+      thatslong0010: -5723085995756593102
+      thatslong0011: -807143771151796850
+      thatslong0012: -4354893887738638271
+      thatslong0013: -9063461561450318488
+      thatslong0014: 609430850273557067
+      thatslong0015: 7056427424836164985
+      thatslong0016: 6224392580507097233
+      thatslong0017: 3539376633417127883
+      thatslong0018: 3068885091508228008
+      thatslong0019: 3495829267831890706
+      thatslong0020: -2159211538690524469
+      thatslong0021: 8461713119392662540
+      thatslong0022: 8119933647179090201
+      thatslong0023: -3278075919650749749
+      thatslong0024: 7494844288000406156
+      thatslong0025: -8169714867842164173
+      thatslong0026: 7704178399851766795
+      thatslong0027: 3584889911036713457
+      thatslong0028: 1814619325713595355
+      thatslong0029: 6953557802123273019
+      thatslong0030: -2734216063203908294
+      thatslong0031: -1758486113237794947
+      thatslong0032: 7032289459465850725
+      thatslong0033: -998176760135583063
+      thatslong0034: -7812225457032967387
+      thatslong0035: -4735465854400876426
+      thatslong0036: -960069151888671119
+      thatslong0037: 6281810880105297561
+      thatslong0038: -8560849377922905429
+      thatslong0039: 8972280601880873014
+      thatslong0040: -5454607539356943293
+      thatslong0041: 9077390215515141208
+      thatslong0042: -9190007573971748623
+      thatslong0043: -7338885655488986879
+      thatslong0044: -6173387975435144507
+      thatslong0045: 3283165987933111347
+      thatslong0046: -8975672190539598992
+      thatslong0047: 3800851368890603648
+      thatslong0048: 7117892337517736523
+      thatslong0049: -1990623224632995861
+      thatslong0050: -8253770386837183882
+      thatslong0051: 3184245546414885523
+      thatslong0052: 290316714250034295
+      thatslong0053: 5478103535375117669
+      thatslong0054: -573035645173586194
+      thatslong0055: -5281684069940147717
+      thatslong0056: -6725904433563971914
+      thatslong0057: -4188849003340663358
+      thatslong0058: -6430928072663807519
+      thatslong0059: 9112611145187099847
+      thatslong0060: -2451859782151298420
+      thatslong0061: 3086010054311133980
+      thatslong0062: -9194578833519725280
+      thatslong0063: 2577188945246035743
+      thatslong0064: 5757007001650961826
+      thatslong0065: -6554753813733811276
+      thatslong0066: -8850702919137164748
+      thatslong0067: -1838082815637044931
+      thatslong0068: -7124663770526292829
+      thatslong0069: -8550297658599196309
+      thatslong0070: -2876395281858766174
+      thatslong0071: 1516428857846601853
+      thatslong0072: 1253132377409024144
+      thatslong0073: -1503978981005426667
+      thatslong0074: -4193072383239313881
+      thatslong0075: -9002043121603794828
+      thatslong0076: -8903837958577117977
+      thatslong0077: 272718028801881489
+      thatslong0078: 7674444115183429396
+      thatslong0079: -6290165186217161371
+      thatslong0080: -6744409762729099864
+      thatslong0081: 2826140104936021560
+      thatslong0082: 8933091173689501646
+      thatslong0083: 6824097674755754998
+      thatslong0084: -8268090028161086236
+      thatslong0085: 8114606779800730280
+      thatslong0086: -5591665086744643301
+      thatslong0087: 3080808776995500119
+      thatslong0088: -6083540863747632885
+      thatslong0089: 2122996779033812394
+      thatslong0090: -280755029225892577
+      thatslong0091: 3745474727503173023
+      thatslong0092: -3023167329098045410
+      thatslong0093: -8301796479597584013
+      thatslong0094: 6161016614438304838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
