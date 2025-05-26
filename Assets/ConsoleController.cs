@@ -9,9 +9,13 @@ public class ConsoleController : MonoBehaviour
 {
     public GameObject con;
     public TMP_InputField inFi;
+    bool isCoroutineRunning;
+    public bool isTyping;
+
+    List<string> addVars = new();
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.V))
+        if (Input.GetKeyDown(KeyCode.V) && !isTyping)
         {
             con.SetActive(!con.activeSelf);
         }
@@ -23,29 +27,67 @@ public class ConsoleController : MonoBehaviour
         {
             inFi.text = "";
             con.GetComponent<Console>().SendLine($"MUR>{result}");
+            addVars.Clear();
+            result = GetAllQVarsAndRepRes(result).TrimEnd();
             List<string> given = result.Split(' ').ToList<string>();
-            try
+            foreach (string v in addVars)
             {
-                StartCoroutine(given[0][..1].ToUpper() + given[0][1..].ToLower(), given);
+                print(v);
+                given.Add(v);
             }
-            catch
-            { 
+            foreach (string a in given)
+            {
+                print(a);    
+            }
+            StartCoroutine(given[0][..1].ToUpper() + given[0][1..].ToLower(), given);
+            if (!isCoroutineRunning)
                 con.GetComponent<Console>().SendLine("Command not found.");
-            }
+            else
+                isCoroutineRunning = false;
         }
     }
 
-    private IEnumerator Test(string[] args)
+    public IEnumerator Hello(List<string> args)
     {
+        isCoroutineRunning = true;
         con.GetComponent<Console>().SendLine($"Hello, {args[1]}!");
         yield return null;
-        if (args.Length > 2)
+        GetUnusedArgs(args, 2);
+    }
+
+    public void SetIsTyping(bool it)
+    {
+        isTyping = it;
+    }
+
+    string GetAllQVarsAndRepRes(string res)
+    {
+        string resCLess = res.Replace(res.Split(' ')[0], "")[1..];
+        print($"Started with {res}");
+        print($"Checking if {resCLess} and {resCLess[(resCLess.IndexOf('"') + 1)..]} contain a d-qoute");
+        if (resCLess.Contains('"') && resCLess[(resCLess.IndexOf('"') + 1)..].Contains('"'))
+        {
+            addVars.Add(resCLess.Substring(resCLess.IndexOf('"') + 1, resCLess[(resCLess.IndexOf('"') + 1)..].IndexOf('"')));
+            print($"Added {resCLess.Substring(resCLess.IndexOf('"') + 1, resCLess[(resCLess.IndexOf('"') + 1)..].IndexOf('"'))}");
+            res = res.Replace(resCLess, "");
+            print($"Changed res to {res}");
+            if (res.Contains('"') && res[(res.IndexOf('"') + 1)..].Contains('"'))
+            {
+                GetAllQVarsAndRepRes(res);
+            }
+        }
+        return res;
+    }
+
+    private void GetUnusedArgs(List<string> allArgs, int usedArgCount)
+    {
+        if (allArgs.Count > usedArgCount)
         {
             string big = "Unused args: ";
-            foreach (string arg in args)
+            foreach (string arg in allArgs)
             {
-                if(Array.IndexOf(args, arg) > 1)
-                    big += Array.IndexOf(args, arg) < args.Length -1 ? arg + ", " : arg;
+                if (allArgs.IndexOf(arg) > usedArgCount-1)
+                    big += allArgs.IndexOf(arg) < allArgs.Count - 1 ? arg + ", " : arg;
             }
             big += "\n";
             con.GetComponent<Console>().SendLine(big);
