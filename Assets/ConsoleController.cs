@@ -63,14 +63,10 @@ public class ConsoleController : MonoBehaviour
     string GetAllQVarsAndRepRes(string res)
     {
         string resCLess = res.Replace(res.Split(' ')[0], "")[1..];
-        print($"Started with {res}");
-        print($"Checking if {resCLess} and {resCLess[(resCLess.IndexOf('"') + 1)..]} contain a d-qoute");
         if (resCLess.Contains('"') && resCLess[(resCLess.IndexOf('"') + 1)..].Contains('"'))
         {
             addVars.Add(resCLess.Substring(resCLess.IndexOf('"') + 1, resCLess[(resCLess.IndexOf('"') + 1)..].IndexOf('"')));
-            print($"Added {resCLess.Substring(resCLess.IndexOf('"') + 1, resCLess[(resCLess.IndexOf('"') + 1)..].IndexOf('"'))}");
             res = res.Replace(resCLess, "");
-            print($"Changed res to {res}");
             if (res.Contains('"') && res[(res.IndexOf('"') + 1)..].Contains('"'))
             {
                 GetAllQVarsAndRepRes(res);

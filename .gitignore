@@ -2,3 +2,6 @@
 /Temp
 /Library/Artifacts
 /Library/Artifacts
+/Logs
+*.log
+*.log

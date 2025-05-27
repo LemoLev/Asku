@@ -10,9 +10,12 @@ public class Movement : MonoBehaviour
     public float runSpeed;
     Rigidbody2D rb;
     bool isRunning;
+    AnimationPlayback ap;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        ap = GetComponent<AnimationPlayback>();
+        ap.PlayAnim(24, "Idle", "Mur_Idle");
     }
     private void Update()
     {

@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638838702624862767
-    m_Hash: 2938287719
+      ticks: 638839153964906914
+    m_Hash: 2484297910
   m_LockFileStatus:
     m_FilePath: D:/ev/UP/Asku/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638838702625512766
-    m_Hash: 78031541
+      ticks: 638839153964916921
+    m_Hash: 4116574972
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
