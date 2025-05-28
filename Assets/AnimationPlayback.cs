@@ -1,6 +1,19 @@
 using System.Collections;
 using UnityEngine;
 
+public class Anim
+{
+    string animName;
+    string spritesheetName;
+    float fps;
+
+    public Anim(string animName, string spritesheetName, float fps)
+    {
+        this.animName = animName;
+        this.spritesheetName = spritesheetName;
+        this.fps = fps;
+    }
+}
 public class AnimationPlayback : MonoBehaviour
 {
     Sprite[] sprites;

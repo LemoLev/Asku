@@ -12,12 +12,29 @@ public class ConsoleController : MonoBehaviour
     bool isCoroutineRunning;
     public bool isTyping;
 
+    public List<string> submittedLines;
+    int sli;
+
     List<string> addVars = new();
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.V) && !isTyping)
+        if (Input.GetKeyDown(KeyCode.T) && !isTyping)
         {
             con.SetActive(!con.activeSelf);
+        }
+
+        if (submittedLines != new List<string>() && isTyping)
+        {
+            if (Input.GetKeyDown(KeyCode.DownArrow) && sli+1 != submittedLines.Count)
+            {
+                sli++;
+                inFi.text = submittedLines[sli];
+            }
+            else if (Input.GetKeyDown(KeyCode.UpArrow)  && sli-1 >= 0)
+            {
+                sli--;
+                inFi.text = submittedLines[sli];
+            }
         }
     }
 
@@ -29,6 +46,8 @@ public class ConsoleController : MonoBehaviour
             con.GetComponent<Console>().SendLine($"MUR>{result}");
             addVars.Clear();
             result = GetAllQVarsAndRepRes(result).TrimEnd();
+            if((submittedLines.Count != 0 && submittedLines[^1] != result) || submittedLines.Count == 0)
+                submittedLines.Add(result);
             List<string> given = result.Split(' ').ToList<string>();
             foreach (string v in addVars)
             {
@@ -37,13 +56,14 @@ public class ConsoleController : MonoBehaviour
             }
             foreach (string a in given)
             {
-                print(a);    
+                print(a);
             }
             StartCoroutine(given[0][..1].ToUpper() + given[0][1..].ToLower(), given);
             if (!isCoroutineRunning)
                 con.GetComponent<Console>().SendLine("Command not found.");
             else
                 isCoroutineRunning = false;
+            sli = submittedLines.Count;
         }
     }
 
