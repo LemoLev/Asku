@@ -64,6 +64,7 @@
     <Analyzer Include="D:\Games\UNITY\2022.3.60f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Translator.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\ConsoleController.cs" />
     <Compile Include="Assets\Console.cs" />
@@ -73,6 +74,7 @@
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Translates.txt" />
     <None Include="Assets\ивк сцена 9.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Mur_Idle.xml" />

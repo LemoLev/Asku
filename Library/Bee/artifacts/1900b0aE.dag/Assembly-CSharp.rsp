@@ -395,6 +395,7 @@
 "Assets/ConsoleController.cs"
 "Assets/Movement.cs"
 "Assets/SmoothFollow.cs"
+"Assets/Translator.cs"
 -langversion:9.0
 /deterministic
 /optimize+
