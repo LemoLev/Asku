@@ -73,30 +73,52 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\main\Metadata\Event\{76f10db6-1273-4612-82ec-711bc7c081dc}.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Translates.txt" />
     <None Include="Assets\ивк сцена 9.xml" />
+    <None Include="Assets\main\Metadata\Event\{71fed790-40f5-4488-bbf8-0e23c46ef2d0}.xml" />
+    <None Include="Assets\main\Metadata\ParameterPresetFolder\{2f895a93-9135-4bfe-8c88-7451a8963b93}.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Mur_Idle.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\main\Metadata\Platform\{50c534cb-5d92-465c-9a3f-a99375833018}.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\main\Metadata\AudioFile\{81604064-f74d-4b34-b3fc-5da6746d147d}.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\main\Metadata\Mixer.xml" />
+    <None Include="Assets\main\Metadata\AudioFile\{c0e1c7c0-3855-4908-9517-5dc3c68ef9b5}.xml" />
+    <None Include="Assets\main\Metadata\Bank\{c3551487-3433-4ed2-9c03-43e2b8c9e517}.xml" />
+    <None Include="Assets\main\Metadata\EncodingSetting\{8dcdc5c4-c1b4-4afa-84d4-ec390ae75f80}.xml" />
+    <None Include="Assets\main\Metadata\Master.xml" />
+    <None Include="Assets\main\Metadata\Tags.xml" />
     <None Include="Assets\allChars.txt" />
+    <None Include="Assets\main\Metadata\Asset\{66825796-33f3-4dd7-9b27-ecd2139db016}.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\main\Metadata\EffectPresetFolder\{fd0bebde-7064-436e-ac1b-63fb10a36354}.xml" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\main\Metadata\Return\{62e6a58a-8273-40a9-8ea9-2264622f2665}.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\main\Metadata\BankFolder\{5086005a-efec-4441-a77e-4ab366ea159d}.xml" />
+    <None Include="Assets\main\Metadata\ProfilerFolder\{d47e7cd4-1447-4f69-85ed-5f3b6ac50992}.xml" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\dainomaik.xml" />
+    <None Include="Assets\main\Metadata\SandboxFolder\{255abd29-0111-4a6a-90e0-d8f8ac598d49}.xml" />
+    <None Include="Assets\main\Metadata\AudioFile\{28afc4a3-9b34-47a9-9474-75f1ac88744f}.xml" />
+    <None Include="Assets\main\Metadata\SnapshotGroup\{9b429964-dc0d-4e84-a85a-5a2ca4eb1df2}.xml" />
+    <None Include="Assets\main\Metadata\Workspace.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\main\Metadata\EventFolder\{84b12c99-a39b-4b8c-9b38-00f378e0aa1a}.xml" />
+    <None Include="Assets\main\Metadata\Event\{8de71873-cec8-4231-99f6-937127fee10a}.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
@@ -1174,6 +1196,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="FMODUnityEditor.csproj" />
+    <ProjectReference Include="FMODUnityResonance.csproj" />
+    <ProjectReference Include="FMODUnity.csproj" />
+    <ProjectReference Include="FMODUnityResonanceEditor.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>

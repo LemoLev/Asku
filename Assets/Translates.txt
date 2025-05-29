@@ -1,15 +1,9 @@
 PLAY:
   EN/Play
   RU/Играть
-  DE/Spielen
-  FR/Jouer
 OPT:
   EN/Options
   RU/Настройки
-  DE/Optionen
-  FR/Paramètres
 QUIT:
   EN/Quit
   RU/Выйти
-  DE/Verlassen
-  FR/Quitter
